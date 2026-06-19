@@ -1,0 +1,21 @@
+{
+  "parsed_movies": 2000,
+  "detail_pages": 2000,
+  "category_pages": 10,
+  "category_counts": {
+    "国产热映": 200,
+    "热门合集": 200,
+    "持续更新": 200,
+    "电影专区": 200,
+    "剧集专区": 200,
+    "爱情喜剧": 200,
+    "悬疑犯罪": 200,
+    "动作科幻": 200,
+    "动画奇幻": 200,
+    "海外佳片": 200
+  },
+  "cover_rule": "X = ((N - 1) % 150) + 1, referenced as ./X.jpg",
+  "m3u8_sources_extracted_from_uploaded_js": 20,
+  "jpg_files_in_zip": 0,
+  "html_pages_have_baidu_script": true
+}
